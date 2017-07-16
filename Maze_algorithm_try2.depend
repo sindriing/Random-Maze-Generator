@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1491478231 source:d:\forritun\leika_ser\maze_algorithm_try2\main.cpp
+	<iostream>
+	"Maze.h"
+
+1489709309 d:\forritun\leika_ser\maze_algorithm_try2\include\maze.h
+	"MazeNode.h"
+	<vector>
+	<assert.h>
+	<iostream>
+	<cstdlib>
+
+1489709018 d:\forritun\leika_ser\maze_algorithm_try2\include\mazenode.h
+
+1490696469 source:d:\forritun\leika_ser\maze_algorithm_try2\src\maze.cpp
+	"Maze.h"
+
+1489709401 source:d:\forritun\leika_ser\maze_algorithm_try2\src\mazenode.cpp
+	"MazeNode.h"
+
+1500236545 source:d:\forritun\leika_ser\maze_rb_edit\main.cpp
+	<iostream>
+	"Maze.h"
+	<time.h>
+
+1492983261 d:\forritun\leika_ser\maze_rb_edit\include\maze.h
+	"MazeNode.h"
+	<vector>
+	<assert.h>
+	<iostream>
+	<cstdlib>
+
+1489709018 d:\forritun\leika_ser\maze_rb_edit\include\mazenode.h
+
+1492983886 source:d:\forritun\leika_ser\maze_rb_edit\src\maze.cpp
+	"Maze.h"
+
+1489709401 source:d:\forritun\leika_ser\maze_rb_edit\src\mazenode.cpp
+	"MazeNode.h"
+
